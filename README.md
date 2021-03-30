@@ -1,4 +1,4 @@
-### Face Recognition Lib
+# Face Recognition Lib
 
 ## Dependencies
 * dlib
