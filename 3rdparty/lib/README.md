@@ -1,0 +1,1 @@
+## Dlib Build Lib 19.21.0 Debug 64bit `.lib file`
