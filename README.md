@@ -1,5 +1,8 @@
 # Face Recognition Lib
 
+## Dependencies
+* dlib
+
 ## Feature
 * detect if the same face
 * get video camera info 
